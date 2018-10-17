@@ -5,6 +5,7 @@ public class Datentypen {
 		int dollar=0.86;
 		int euro=0.86*50;
 		System.out.println("Dollar in Euro" +euro);
+		System.out.println("Dollar in Euro" +euro);
 		}
 	}
 }
